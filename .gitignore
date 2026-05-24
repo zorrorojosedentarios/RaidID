@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# MacOS
+.DS_Store
+
+# WoW SavedVariables (Optional, but usually not included in the addon folder repo)
+# These are normally in the WTF folder, but if someone copies them here by mistake:
+*.bak
+*.old
